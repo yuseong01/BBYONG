@@ -10,9 +10,11 @@ BBYONG은 오디오 데이터를 실시간으로 캡처하고 WebSocket을 통�
 - **언어 전환**: 한글(KOR), 영어(ENG), 두 언어(Both)를 동시에 표시할 수 있는 기능 제공
 - **카메라 화면 제공**: 실시간 비디오 미리보기 화면 제공
 
-<img src="https://github.com/user-attachments/assets/4648d031-ef95-43bb-9752-f766be622642" alt="IMG_0181" width="300"/>
-<img src="https://github.com/user-attachments/assets/db349988-6207-49aa-90d9-ea5fdee322b5" alt="IMG_0186" width="300"/>
-
-
-<img src="https://github.com/user-attachments/assets/e1905156-b8f3-48d3-a30e-7d397751ed8d" alt="IMG_0185" width="300"/>
-<img src="https://github.com/user-attachments/assets/bb912164-6a9b-47fa-8b5f-84affff91087" alt="IMG_0184" width="300"/>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/4648d031-ef95-43bb-9752-f766be622642" alt="IMG_0181" width="300" style="border: 2px solid white; margin-right: 10px;" />
+    <img src="https://github.com/user-attachments/assets/db349988-6207-49aa-90d9-ea5fdee322b5" alt="IMG_0186" width="300" style="border: 2px solid white;" />
+</p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/e1905156-b8f3-48d3-a30e-7d397751ed8d" alt="IMG_0185" width="300" style="border: 2px solid white; margin-right: 10px;" />
+    <img src="https://github.com/user-attachments/assets/bb912164-6a9b-47fa-8b5f-84affff91087" alt="IMG_0184" width="300" style="border: 2px solid white;" />
+</p>
